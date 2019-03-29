@@ -1,5 +1,5 @@
 # Polls App with Django
-App which allows you to create Polls
+App which allows you to make your own cool polls.
 
 # Install
 1) Download repo
